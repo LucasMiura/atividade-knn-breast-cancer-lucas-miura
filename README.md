@@ -117,7 +117,7 @@ notebook.ipynb
 
 Link do vídeo demonstrando a execução do notebook e explicando cada etapa do desenvolvimento:
 
-🔗 <LINK_DO_VIDEO_YOUTUBE_NAO_LISTADO>
+🔗 https://youtu.be/WgBA4DqV_CY
 
 ---
 
